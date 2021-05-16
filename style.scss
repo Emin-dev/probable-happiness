@@ -1,0 +1,22 @@
+.container{
+    margin:10vh auto 5vh ;
+    width: 90vw;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 333px;
+    min-height: 333px;
+}
+
+.box{
+   
+    width: 20%;
+    border: 5px solid #C9B79C;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 10px;
+    max-width: 100px;
+}
+body{
+    background-color: #F1E0C5;
+}
