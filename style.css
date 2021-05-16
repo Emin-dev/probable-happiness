@@ -19,4 +19,22 @@
 
 body {
   background-color: #F1E0C5;
+}
+
+.green {
+  background-color: #71816D;
+  pointer-events: none;
+}
+
+.orange {
+  background-color: #ac8233;
+  pointer-events: none;
+}
+
+.yes {
+  margin: auto;
+  border-radius: 100%;
+  background-color: white;
+  width: 20px;
+  z-index: 99;
 }/*# sourceMappingURL=style.css.map */
